@@ -1,0 +1,12 @@
+.current-health-meter-container {
+  background-color: #282c34;
+  border: 2px solid aquamarine;
+  width: 120px;
+  height: 20px;
+
+  .current-health-measure {
+    background-color: aquamarine;
+    margin: 2px;
+    height: 16px;
+  }
+}

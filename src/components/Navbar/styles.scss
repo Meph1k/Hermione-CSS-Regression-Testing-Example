@@ -1,0 +1,17 @@
+.navbar {
+  a, a:visited {
+    text-decoration: none;
+    color: aquamarine;
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+    li {
+      padding: 0 10px;
+      font-size: 20px;
+    }
+  }
+}

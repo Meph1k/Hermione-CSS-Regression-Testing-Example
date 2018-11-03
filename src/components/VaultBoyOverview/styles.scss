@@ -1,0 +1,63 @@
+.vault-boy-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .player-info {
+    display: flex;
+
+    span {
+      font-size: 30px;
+      color: #95ff73;
+      padding: 10px;
+    }
+  }
+}
+
+
+.vault-boy-image-container {
+  position: relative;
+  width: 530px;
+
+  .vault-boy-image {
+    height: 400px;
+    width: auto;
+  }
+
+  .head-health-meter {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 60px);
+  }
+
+  .left-arm-health-meter {
+    position: absolute;
+    left: 0;
+    top: 80px;
+  }
+
+  .right-arm-health-meter {
+    position: absolute;
+    right: 10%;
+    top: 40%;
+  }
+
+  .torso-health-meter {
+    top: 40%;
+    left: calc(50% - 60px);
+    position: absolute;
+  }
+
+  .left-leg-health-meter {
+    position: absolute;
+    bottom: 50px;
+    left: 300px;
+  }
+
+  .right-leg-health-meter {
+    position: absolute;
+    bottom: 50px;
+    right: 300px;
+  }
+}
