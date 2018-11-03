@@ -9,13 +9,13 @@ But what’s most important for us - we may take a reference screenshot of a pag
 # A quick demo
 
 Original reference view:
-![alt text](https://raw.githubusercontent.com/meph1k/Hermione-CSS-Regression-Testing-Example/master/my/hermione-reports)
+![alt text](https://github.com/Meph1k/Hermione-CSS-Regression-Testing-Example/blob/master/my/hermione-reports/images/8c6858d/Whole%20page/chromeMobile~ref_0.png?raw=true)
 
 Changed view:
-![alt text](https://raw.githubusercontent.com/meph1k/Hermione-CSS-Regression-Testing-Example/master/my/hermione-reports)
+![alt text](https://github.com/Meph1k/Hermione-CSS-Regression-Testing-Example/blob/master/my/hermione-reports/images/8c6858d/Whole%20page/chromeMobile~current_0.png?raw=true)
 
 Diff view:
-![alt text](https://raw.githubusercontent.com/meph1k/Hermione-CSS-Regression-Testing-Example/master/my/hermione-reports)
+![alt text](https://github.com/Meph1k/Hermione-CSS-Regression-Testing-Example/blob/master/my/hermione-reports/images/8c6858d/Whole%20page/chromeMobile~diff_0.png?raw=true)
 
 # Blog post with tutorial
 Coming soon!
