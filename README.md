@@ -18,7 +18,7 @@ Diff view:
 ![alt text](https://github.com/Meph1k/Hermione-CSS-Regression-Testing-Example/blob/master/my/hermione-reports/images/8c6858d/Whole%20page/chromeMobile~diff_0.png?raw=true)
 
 # Blog post with tutorial
-Coming soon!
+https://brainhub.eu/blog/regression-testing-with-selenium/
 
 # How to run the project
 
